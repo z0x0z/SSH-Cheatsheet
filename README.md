@@ -27,4 +27,4 @@ A Cheatsheet on (Secure Shell) SSH command
 
 ### Credits
 
-Thanks to [Dennyzhang](https://www.dennyzhang.com) for his great work. Check his Blog for more cheatsheets on Kubernetes, Docker, Jenkins, Git, DevOps etc.
+Thanks to [Dennyzhang](https://www.dennyzhang.com) for his great work. Check his Blog for cheatsheets on Kubernetes, Docker, Jenkins, Git, DevOps etc.
